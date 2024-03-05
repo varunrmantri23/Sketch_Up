@@ -1,7 +1,7 @@
 # Sketch-Up 🎨
 
-Click here to see the live webpage: Your Live Link
-My GitHub profile: Your GitHub Profile Link
+Click here to see the live webpage: https://varunrmantri23.github.io/Sketch_Up/
+My GitHub profile: https://github.com/varunrmantri23
 
 ## Need for Sketch-Up
 
